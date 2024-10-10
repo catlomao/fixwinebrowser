@@ -1,6 +1,7 @@
 ---
 
 # How to Use
+# download and extract the 'winebrowser.zip'
 
 ## Replace `winebrowser.exe` in the Releases tab with `winebrowser.exe` from
 ```
