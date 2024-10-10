@@ -1,9 +1,10 @@
 ---
 
 # How to Use
-# download and extract the 'winebrowser.zip'
+# download from here (github doesnt support up to 25mb so i have to upload it through MEGA)
+[click here to download](https://mega.nz/file/6tJlkKJY#2ZTH5eNukc5NYkuHhAgUp7Q4PStE5WS3atcV2ZP6J4I)
 
-## Replace `winebrowser.exe` in the Releases tab with `winebrowser.exe` from
+## Replace `winebrowser.exe` with `winebrowser.exe` from
 ```
 C:\windows\syswow64\winebrowser.exe
 ```
